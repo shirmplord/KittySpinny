@@ -1,2 +1,2 @@
-# kitty-spinny
+# KittySpinny
 Cat wheel monitoring
